@@ -8,11 +8,11 @@ You can get it by cloning and give executable permission.
  
  After giving permission, you can install it.
  
- # ./clram.sh
+ #sudo   ./clram.sh
  
  
  After installing, you can use CLRAM anywhere of your system.
  
- # clram
+ # sudo  clram
  
  Thanks
